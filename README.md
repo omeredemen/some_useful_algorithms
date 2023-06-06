@@ -2,4 +2,4 @@
 This repo is fulled with some code that can be usefull
 
 
-g++ histogram.cpp -o app -lsfml-graphics -lsfml-window -lsfml-system
+g++ angle_histogram.cpp -o app -lsfml-graphics -lsfml-window -lsfml-system
